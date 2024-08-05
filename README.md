@@ -3,7 +3,7 @@ Minecraft Comes Alive Reborn
 
 [![Crowdin](https://badges.crowdin.net/minecraft-comes-alive-2/localized.svg)](https://crowdin.com/project/minecraft-comes-alive-2)
 
-Minecraft Comes Alive (MCA) is a Minecraft mod that replaces Minecraft's villagers with normal player-like NPCs. It works in single player, LAN, and SMP.
+Minecraft Comes Alive (MCA) 是一个船新的Minecraft模组，它让村民更加智能、也更加有生命力！它可以用于本地局域网、单人游戏以及SMP服务器。
 
 Villagers can be interacted with - you can talk to them, ask them to follow you, set their home, give them gifts, etc. Interacting with people builds relationships. Get your relationship high enough, and you will be able to marry someone.
 
